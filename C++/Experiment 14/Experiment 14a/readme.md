@@ -1,6 +1,6 @@
-#Experiment 14(a)
-##Aim : Write a C++ to illustrate the concepts of console I/O operations.
-###Step by Step procedure for the Experiment
+# Experiment 14(a)
+## Aim : Write a C++ to illustrate the concepts of console I/O operations.
+### Step by Step procedure for the Experiment 
 Step 1 - Include the required header files (iostream).
 
 Step 2 - Create a main() method with data member x.

@@ -1,9 +1,6 @@
-                        Experiment 13(a):
-
-    Aim : Write a C++ Program for divide by zero using try & catch blocks.
-
-          Step by Step procedure for the Experiment: 
-
+# Experiment 13(a)
+## Aim : Write a C++ Program for divide by zero using try & catch blocks.
+### Step by Step procedure for the Experiment
 step-1:Start the program.
 
 step-2:Declare the variables var1,var2.
